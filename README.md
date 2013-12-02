@@ -74,6 +74,7 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 
 **Group 2**
 - address
+- address-set
 - aging-time
 - agent
 - ah
@@ -93,8 +94,10 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - blacklist
 - certificate
 - channel
+- cipher
 - classifier
 - community
+- compatible-ssh1x
 - configuration
 - ddos
 - description
@@ -163,7 +166,10 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - port-observing
 - port-mirroring
 - port-mapping
+- port-set
 - ppp
+- pre-check
+- pre-shared-key
 - privilege
 - proposal
 - radius-server
@@ -194,6 +200,7 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - te
 - time-range
 - timeout
+- trap
 - traversal
 - trunk
 - trunkport
