@@ -306,7 +306,7 @@ From now, you can read and edit **Huawei VRP** platform configure command line o
 > - epon
 > - vlanif
 
-##update history
+##Update History
 Version|   Details               |Time
 -------|-------------------------|-------
 0.9|Just created for fun.|1st-Dec-2013
