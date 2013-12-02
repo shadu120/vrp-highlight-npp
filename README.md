@@ -1,14 +1,14 @@
 vrp-highlight-npp
 =================
 
-**Huawei VRP** platform command line language high light support for notepad++.
+**Huawei VRP** platform command line keywords high light support for notepad++.
 
-From now, you can read and edit **Huawei VRP** platform configure command line of file by using **syntax highlight** and **auto-completion** functions in [Notepad++](http://notepad-plus-plus.org/).
+From now, you can read and edit **Huawei VRP** platform  command line configuration file by using **keywords highlight** and **auto-completion** functions in [Notepad++](http://notepad-plus-plus.org/).
 
 ##How to use
 1.  Install and open Notepad++ editor first
 2.  Follow the menu **Language** | **Define your languate...**
-3.  Click the button **Import**, select the downloaded file Huawei-VRP-highlight.xml
+3.  Click the button **Import**, select the downloaded file **Huawei-VRP-highlight.xml**
 4.  Get the message box "Import successful."
 5.  Open a Huawei device configuration file which name suffixs with "**.cfg**" and enjoy it!
 6.  You can also change the language manually by using the tool menu **Language** | **Huawei VRP**
