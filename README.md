@@ -17,8 +17,7 @@ From now, you can read and edit **Huawei VRP** platform configure command line o
 9.  To use the feature **Auto-Completion**, please follow the tool menu **Settings** | **Preferences** | **Auto-Completion**, and enable the **Word completion**
 
 ##Keywokrds supported
-> **Keywords Group 1**
-
+**Keywords Group 1**
 > - aaa
 > - acl
 > - arp
@@ -72,9 +71,8 @@ From now, you can read and edit **Huawei VRP** platform configure command line o
 > - vlan
 > - web-manager
 > - update
-
-> **Keywords Group 2**
-
+    
+**Keywords Group 2**
 > - address
 > - aging-time
 > - agent
@@ -214,8 +212,7 @@ From now, you can read and edit **Huawei VRP** platform configure command line o
 > - whitelist
 > - zone
 
-> **Keywords Group 3**
-
+**Keywords Group 3**
 > - dns-flood
 > - fraggle
 > - http-flood
@@ -247,8 +244,7 @@ From now, you can read and edit **Huawei VRP** platform configure command line o
 > - syn-ack-flood
 > - tcp-abnormal-flood
 
-> **Keywords Group 4**
-
+**Keywords Group 4**
 > - aaa
 > - all
 > - any
@@ -301,8 +297,7 @@ From now, you can read and edit **Huawei VRP** platform configure command line o
 > - radius
 > - allow-pass
 
-> **Keywords Group 5**
-
+**Keywords Group 5**
 > - Ethernet
 > - GigabitEthernet
 > - XGigabitEthernet
