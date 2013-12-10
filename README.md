@@ -22,7 +22,6 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - acl
 - arp
 - anti-attack
-- authentication-mode
 - bfd
 - ddos-zone
 - diffserv
@@ -31,6 +30,8 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - firewall
 - header
 - hrp
+- hwtacacs
+- hwtacacs-server
 - interface
 - info-center
 - ipsec
@@ -81,12 +82,19 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - anti-ddos
 - apply
 - arp-limit
-- authentication-scheme
+- autentication
+- authorization
+- accounting
+- autentication-scheme
 - authorization-scheme
 - accounting-scheme
+- authorization-cmd
+- authorization-mode
+- authentication-mode
+- authentication-super
+- accounting-mode
 - authentication-type
 - authentication-algorithm
-- authentication-method
 - bfd-session
 - bind
 - binding
@@ -198,6 +206,7 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - sys-info
 - target-host
 - te
+- test-aaa
 - time-range
 - timeout
 - trap
