@@ -82,10 +82,10 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - anti-ddos
 - apply
 - arp-limit
-- autentication
+- authentication
 - authorization
 - accounting
-- autentication-scheme
+- authentication-scheme
 - authorization-scheme
 - accounting-scheme
 - authorization-cmd
