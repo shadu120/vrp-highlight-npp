@@ -238,9 +238,11 @@ From now, you can read and edit **Huawei VRP** platform  command line configurat
 - route-record
 - smurf
 - source-ip
+- source-route
 - teardrop
 - time-stamp
 - tracert
+- tcp-flag
 - udp-flood
 - winnuke
 - ack-flood
